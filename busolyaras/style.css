@@ -6,6 +6,8 @@ header
 {
 height: 100px;
 padding: 20px;
+text-align: right;
+background-image: url("busoly");
 
 }
 header{     background-color: wheat;}

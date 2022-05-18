@@ -35,6 +35,13 @@ nav a:hover li{
 }
 .tartalom{
     background-color: wheat;
+    padding: 15px;
+}
+.tartalom h2
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-variant: small-caps;
 }
 footer{
     min-height: 50px;
